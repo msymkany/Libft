@@ -6,7 +6,7 @@
 /*   By: msymkany <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/02/09 17:10:17 by msymkany          #+#    #+#             */
-/*   Updated: 2017/03/01 21:31:55 by msymkany         ###   ########.fr       */
+/*   Updated: 2017/03/23 18:49:07 by msymkany         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,8 +25,6 @@
 **	char mod: hh = f, h, l, ll = m, z, j;
 **	char c - conversion flag ('%' for any other character, 'b' for binary);
 **	char *buf - arg converted to str;
-**	char *w_str - str with size of each unicode symbol in wide string,
-**				  to detect precision later on;
 */
 
 #ifndef LIBFTPRINTF_H
